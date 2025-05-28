@@ -1,0 +1,47 @@
+﻿@model IEnumerable<Pvvlab6.Models.PvvEmployee>
+
+@{
+    ViewData["Title"] = "Danh sách nhân viên";
+}
+<div class="container mt-4">
+    <h1>@ViewData["Title"]</h1>
+
+    <table class="table table-bordered table-striped table-hover">
+        <thead class="table-dark">
+            <tr>
+                <th>ID</th>
+                <th>Tên</th>
+                <th>Ngày sinh</th>
+                <th>Email</th>
+                <th>Điện thoại</th>
+                <th>Lương</th>
+                <th>Trạng thái</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var PvvEmp in Model)
+            {
+                <tr>
+                    <td>@PvvEmp.PvvId</td>
+                    <td>@PvvEmp.PvvName</td>
+                    <td>@PvvEmp.PvvBirthDay.ToString("yyyy-MM-dd")</td>
+                    <td>@PvvEmp.PvvEmail</td>
+                    <td>@PvvEmp.PvvPhone</td>
+                    <td>@string.Format("{0:N0}", PvvEmp.PvvSalary)</td>
+                    <td>
+                        @if (PvvEmp.PvvStatus)
+                        {
+                            <span class="badge bg-success">Đang làm</span>
+                        }
+                        else
+                        {
+                            <span class="badge bg-secondary">Nghỉ</span>
+                        }
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+
