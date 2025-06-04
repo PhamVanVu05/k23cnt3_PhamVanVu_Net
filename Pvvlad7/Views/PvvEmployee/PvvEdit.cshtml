@@ -1,0 +1,59 @@
+﻿@model Pvvlad7.Models.PvvEmployee
+
+@{
+    ViewData["Title"] = "Sửa thông tin nhân viên";
+}
+
+<h1>Sửa thông tin nhân viên</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="PvvEdit" asp-route-id="@Model.PvvId">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="PvvId" class="control-label"></label>
+                <input asp-for="PvvId" class="form-control" />
+                <span asp-validation-for="PvvId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PvvName" class="control-label"></label>
+                <input asp-for="PvvName" class="form-control" />
+                <span asp-validation-for="PvvName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PvvBirthDay" class="control-label"></label>
+                <input asp-for="PvvBirthDay" class="form-control" />
+                <span asp-validation-for="PvvBirthDay" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PvvEmail" class="control-label"></label>
+                <input asp-for="PvvEmail" class="form-control" />
+                <span asp-validation-for="PvvEmail" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PvvPhone" class="control-label"></label>
+                <input asp-for="PvvPhone" class="form-control" />
+                <span asp-validation-for="PvvPhone" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PvvSalary" class="control-label"></label>
+                <input asp-for="PvvSalary" class="form-control" />
+                <span asp-validation-for="PvvSalary" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="PvvStatus" /> @Html.DisplayNameFor(model => model.PvvStatus)
+                </label>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="PvvIndex">Back to List</a>
+</div>
+

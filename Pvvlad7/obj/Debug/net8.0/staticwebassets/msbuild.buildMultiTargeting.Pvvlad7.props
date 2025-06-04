@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Pvvlad7.props" />
+</Project>
