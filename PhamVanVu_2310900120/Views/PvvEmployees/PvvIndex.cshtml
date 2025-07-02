@@ -1,0 +1,59 @@
+﻿@model IEnumerable<PhamVanVu_2310900120.Models.PvvEmployee>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="PvvCreate">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.PvvEmpId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PvvEmpName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PvvEmpLevel)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PvvEmpStartDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PvvEmpStatus)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PvvEmpId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PvvEmpName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PvvEmpLevel)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PvvEmpStartDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PvvEmpStatus)
+                </td>
+                <td>
+                    <a asp-action="PvvEdit" asp-route-Pvvid="@item.PvvEmpId">Edit</a> |
+                    <a asp-action="PvvDetails" asp-route-Pvvid="@item.PvvEmpId">Details</a> |
+                    <a asp-action="PvvDelete" asp-route-Pvvid="@item.PvvEmpId">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

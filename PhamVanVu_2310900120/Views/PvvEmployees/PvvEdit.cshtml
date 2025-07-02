@@ -1,0 +1,57 @@
+﻿@model PhamVanVu_2310900120.Models.PvvEmployee
+
+@{
+    ViewData["Title"] = "Chỉnh sửa nhân viên";
+}
+
+<div class="card shadow-sm mx-auto mt-4" style="max-width: 500px;">
+    <div class="card-header bg-warning text-dark">
+        <h4 class="text-center">@ViewData["Title"]</h4>
+    </div>
+
+    <div class="card-body">
+        <form asp-action="PvvEdit">
+            <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+
+            <input type="hidden" asp-for="PvvEmpId" />
+
+            <div class="mb-3">
+                <label asp-for="PvvEmpName" class="form-label fw-semibold"></label>
+                <input asp-for="PvvEmpName" class="form-control" placeholder="Nhập tên nhân viên" />
+                <span asp-validation-for="PvvEmpName" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="PvvEmpLevel" class="form-label fw-semibold"></label>
+                <input asp-for="PvvEmpLevel" class="form-control" placeholder="Nhập cấp bậc" />
+                <span asp-validation-for="PvvEmpLevel" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="PvvEmpStartDate" class="form-label fw-semibold"></label>
+                <input asp-for="PvvEmpStartDate" type="date" class="form-control" />
+                <span asp-validation-for="PvvEmpStartDate" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="PvvEmpStatus" class="form-label fw-semibold"></label>
+                <select asp-for="PvvEmpStatus" class="form-select">
+                    <option value="true" selected="@Model.PvvEmpStatus">Hiển thị</option>
+                    <option value="false" selected="!@Model.PvvEmpStatus">Tạm ẩn</option>
+                </select>
+                <span asp-validation-for="PvvEmpStatus" class="text-danger"></span>
+            </div>
+
+            <div class="text-center">
+                <button type="submit" class="btn btn-primary">💾 Lưu thay đổi</button>
+                <a asp-action="PvvIndex" class="btn btn-secondary ms-2">⬅️ Quay lại</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

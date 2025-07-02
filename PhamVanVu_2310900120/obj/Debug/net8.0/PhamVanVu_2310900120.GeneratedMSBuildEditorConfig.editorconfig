@@ -1,0 +1,81 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PhamVanVu_2310900120
+build_property.RootNamespace = PhamVanVu_2310900120
+build_property.ProjectDir = D:\NETCORE\k23cnt3_PhamVanVu_Net\PhamVanVu_2310900120\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\NETCORE\k23cnt3_PhamVanVu_Net\PhamVanVu_2310900120
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[D:/NETCORE/k23cnt3_PhamVanVu_Net/PhamVanVu_2310900120/Views/PvvEmployees/PvvCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHZ2RW1wbG95ZWVzXFB2dkNyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NETCORE/k23cnt3_PhamVanVu_Net/PhamVanVu_2310900120/Views/PvvEmployees/PvvDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHZ2RW1wbG95ZWVzXFB2dkRlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NETCORE/k23cnt3_PhamVanVu_Net/PhamVanVu_2310900120/Views/PvvEmployees/PvvDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHZ2RW1wbG95ZWVzXFB2dkRldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NETCORE/k23cnt3_PhamVanVu_Net/PhamVanVu_2310900120/Views/PvvEmployees/PvvEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHZ2RW1wbG95ZWVzXFB2dkVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NETCORE/k23cnt3_PhamVanVu_Net/PhamVanVu_2310900120/Views/PvvEmployees/PvvIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHZ2RW1wbG95ZWVzXFB2dkluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NETCORE/k23cnt3_PhamVanVu_Net/PhamVanVu_2310900120/Views/PvvHome/PvvAbout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHZ2SG9tZVxQdnZBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NETCORE/k23cnt3_PhamVanVu_Net/PhamVanVu_2310900120/Views/PvvHome/PvvIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHZ2SG9tZVxQdnZJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NETCORE/k23cnt3_PhamVanVu_Net/PhamVanVu_2310900120/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NETCORE/k23cnt3_PhamVanVu_Net/PhamVanVu_2310900120/Views/Shared/_PvvNavBar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QdnZOYXZCYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NETCORE/k23cnt3_PhamVanVu_Net/PhamVanVu_2310900120/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NETCORE/k23cnt3_PhamVanVu_Net/PhamVanVu_2310900120/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NETCORE/k23cnt3_PhamVanVu_Net/PhamVanVu_2310900120/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NETCORE/k23cnt3_PhamVanVu_Net/PhamVanVu_2310900120/Views/Shared/_PvvLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QdnZMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-032t9lswoc

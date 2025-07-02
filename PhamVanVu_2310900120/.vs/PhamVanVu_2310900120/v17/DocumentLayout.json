@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NETCORE\\k23cnt3_PhamVanVu_Net\\PhamVanVu_2310900120\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70739D0D-5D86-4D21-B82F-355706894DAB}|PhamVanVu_2310900120.csproj|d:\\netcore\\k23cnt3_phamvanvu_net\\phamvanvu_2310900120\\views\\shared\\_pvvnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70739D0D-5D86-4D21-B82F-355706894DAB}|PhamVanVu_2310900120.csproj|solutionrelative:views\\shared\\_pvvnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70739D0D-5D86-4D21-B82F-355706894DAB}|PhamVanVu_2310900120.csproj|d:\\netcore\\k23cnt3_phamvanvu_net\\phamvanvu_2310900120\\views\\pvvemployees\\pvvindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70739D0D-5D86-4D21-B82F-355706894DAB}|PhamVanVu_2310900120.csproj|solutionrelative:views\\pvvemployees\\pvvindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70739D0D-5D86-4D21-B82F-355706894DAB}|PhamVanVu_2310900120.csproj|d:\\netcore\\k23cnt3_phamvanvu_net\\phamvanvu_2310900120\\views\\pvvemployees\\pvvedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70739D0D-5D86-4D21-B82F-355706894DAB}|PhamVanVu_2310900120.csproj|solutionrelative:views\\pvvemployees\\pvvedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70739D0D-5D86-4D21-B82F-355706894DAB}|PhamVanVu_2310900120.csproj|d:\\netcore\\k23cnt3_phamvanvu_net\\phamvanvu_2310900120\\views\\pvvemployees\\pvvdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70739D0D-5D86-4D21-B82F-355706894DAB}|PhamVanVu_2310900120.csproj|solutionrelative:views\\pvvemployees\\pvvdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70739D0D-5D86-4D21-B82F-355706894DAB}|PhamVanVu_2310900120.csproj|d:\\netcore\\k23cnt3_phamvanvu_net\\phamvanvu_2310900120\\views\\pvvemployees\\pvvdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70739D0D-5D86-4D21-B82F-355706894DAB}|PhamVanVu_2310900120.csproj|solutionrelative:views\\pvvemployees\\pvvdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70739D0D-5D86-4D21-B82F-355706894DAB}|PhamVanVu_2310900120.csproj|d:\\netcore\\k23cnt3_phamvanvu_net\\phamvanvu_2310900120\\views\\pvvemployees\\pvvcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70739D0D-5D86-4D21-B82F-355706894DAB}|PhamVanVu_2310900120.csproj|solutionrelative:views\\pvvemployees\\pvvcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70739D0D-5D86-4D21-B82F-355706894DAB}|PhamVanVu_2310900120.csproj|d:\\netcore\\k23cnt3_phamvanvu_net\\phamvanvu_2310900120\\models\\pvvemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70739D0D-5D86-4D21-B82F-355706894DAB}|PhamVanVu_2310900120.csproj|solutionrelative:models\\pvvemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70739D0D-5D86-4D21-B82F-355706894DAB}|PhamVanVu_2310900120.csproj|d:\\netcore\\k23cnt3_phamvanvu_net\\phamvanvu_2310900120\\models\\phamvanvu2310900120context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70739D0D-5D86-4D21-B82F-355706894DAB}|PhamVanVu_2310900120.csproj|solutionrelative:models\\phamvanvu2310900120context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70739D0D-5D86-4D21-B82F-355706894DAB}|PhamVanVu_2310900120.csproj|d:\\netcore\\k23cnt3_phamvanvu_net\\phamvanvu_2310900120\\controllers\\pvvemployeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70739D0D-5D86-4D21-B82F-355706894DAB}|PhamVanVu_2310900120.csproj|solutionrelative:controllers\\pvvemployeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70739D0D-5D86-4D21-B82F-355706894DAB}|PhamVanVu_2310900120.csproj|d:\\netcore\\k23cnt3_phamvanvu_net\\phamvanvu_2310900120\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70739D0D-5D86-4D21-B82F-355706894DAB}|PhamVanVu_2310900120.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70739D0D-5D86-4D21-B82F-355706894DAB}|PhamVanVu_2310900120.csproj|d:\\netcore\\k23cnt3_phamvanvu_net\\phamvanvu_2310900120\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70739D0D-5D86-4D21-B82F-355706894DAB}|PhamVanVu_2310900120.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70739D0D-5D86-4D21-B82F-355706894DAB}|PhamVanVu_2310900120.csproj|d:\\netcore\\k23cnt3_phamvanvu_net\\phamvanvu_2310900120\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{70739D0D-5D86-4D21-B82F-355706894DAB}|PhamVanVu_2310900120.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70739D0D-5D86-4D21-B82F-355706894DAB}|PhamVanVu_2310900120.csproj|d:\\netcore\\k23cnt3_phamvanvu_net\\phamvanvu_2310900120\\views\\pvvhome\\pvvabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70739D0D-5D86-4D21-B82F-355706894DAB}|PhamVanVu_2310900120.csproj|solutionrelative:views\\pvvhome\\pvvabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70739D0D-5D86-4D21-B82F-355706894DAB}|PhamVanVu_2310900120.csproj|d:\\netcore\\k23cnt3_phamvanvu_net\\phamvanvu_2310900120\\views\\pvvhome\\pvvindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70739D0D-5D86-4D21-B82F-355706894DAB}|PhamVanVu_2310900120.csproj|solutionrelative:views\\pvvhome\\pvvindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70739D0D-5D86-4D21-B82F-355706894DAB}|PhamVanVu_2310900120.csproj|d:\\netcore\\k23cnt3_phamvanvu_net\\phamvanvu_2310900120\\controllers\\pvvhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70739D0D-5D86-4D21-B82F-355706894DAB}|PhamVanVu_2310900120.csproj|solutionrelative:controllers\\pvvhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70739D0D-5D86-4D21-B82F-355706894DAB}|PhamVanVu_2310900120.csproj|d:\\netcore\\k23cnt3_phamvanvu_net\\phamvanvu_2310900120\\views\\shared\\_pvvlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70739D0D-5D86-4D21-B82F-355706894DAB}|PhamVanVu_2310900120.csproj|solutionrelative:views\\shared\\_pvvlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PvvEdit.cshtml",
+              "DocumentMoniker": "D:\\NETCORE\\k23cnt3_PhamVanVu_Net\\PhamVanVu_2310900120\\Views\\PvvEmployees\\PvvEdit.cshtml",
+              "RelativeDocumentMoniker": "Views\\PvvEmployees\\PvvEdit.cshtml",
+              "ToolTip": "D:\\NETCORE\\k23cnt3_PhamVanVu_Net\\PhamVanVu_2310900120\\Views\\PvvEmployees\\PvvEdit.cshtml",
+              "RelativeToolTip": "Views\\PvvEmployees\\PvvEdit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T03:49:59.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PvvDelete.cshtml",
+              "DocumentMoniker": "D:\\NETCORE\\k23cnt3_PhamVanVu_Net\\PhamVanVu_2310900120\\Views\\PvvEmployees\\PvvDelete.cshtml",
+              "RelativeDocumentMoniker": "Views\\PvvEmployees\\PvvDelete.cshtml",
+              "ToolTip": "D:\\NETCORE\\k23cnt3_PhamVanVu_Net\\PhamVanVu_2310900120\\Views\\PvvEmployees\\PvvDelete.cshtml",
+              "RelativeToolTip": "Views\\PvvEmployees\\PvvDelete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T03:46:17.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PvvCreate.cshtml",
+              "DocumentMoniker": "D:\\NETCORE\\k23cnt3_PhamVanVu_Net\\PhamVanVu_2310900120\\Views\\PvvEmployees\\PvvCreate.cshtml",
+              "RelativeDocumentMoniker": "Views\\PvvEmployees\\PvvCreate.cshtml",
+              "ToolTip": "D:\\NETCORE\\k23cnt3_PhamVanVu_Net\\PhamVanVu_2310900120\\Views\\PvvEmployees\\PvvCreate.cshtml",
+              "RelativeToolTip": "Views\\PvvEmployees\\PvvCreate.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T03:46:14.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PvvIndex.cshtml",
+              "DocumentMoniker": "D:\\NETCORE\\k23cnt3_PhamVanVu_Net\\PhamVanVu_2310900120\\Views\\PvvEmployees\\PvvIndex.cshtml",
+              "RelativeDocumentMoniker": "Views\\PvvEmployees\\PvvIndex.cshtml",
+              "ToolTip": "D:\\NETCORE\\k23cnt3_PhamVanVu_Net\\PhamVanVu_2310900120\\Views\\PvvEmployees\\PvvIndex.cshtml",
+              "RelativeToolTip": "Views\\PvvEmployees\\PvvIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T03:46:11.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PvvDetails.cshtml",
+              "DocumentMoniker": "D:\\NETCORE\\k23cnt3_PhamVanVu_Net\\PhamVanVu_2310900120\\Views\\PvvEmployees\\PvvDetails.cshtml",
+              "RelativeDocumentMoniker": "Views\\PvvEmployees\\PvvDetails.cshtml",
+              "ToolTip": "D:\\NETCORE\\k23cnt3_PhamVanVu_Net\\PhamVanVu_2310900120\\Views\\PvvEmployees\\PvvDetails.cshtml",
+              "RelativeToolTip": "Views\\PvvEmployees\\PvvDetails.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAqwCEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T03:44:57.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_PvvNavBar.cshtml",
+              "DocumentMoniker": "D:\\NETCORE\\k23cnt3_PhamVanVu_Net\\PhamVanVu_2310900120\\Views\\Shared\\_PvvNavBar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_PvvNavBar.cshtml",
+              "ToolTip": "D:\\NETCORE\\k23cnt3_PhamVanVu_Net\\PhamVanVu_2310900120\\Views\\Shared\\_PvvNavBar.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_PvvNavBar.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T02:02:43.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PvvEmployee.cs",
+              "DocumentMoniker": "D:\\NETCORE\\k23cnt3_PhamVanVu_Net\\PhamVanVu_2310900120\\Models\\PvvEmployee.cs",
+              "RelativeDocumentMoniker": "Models\\PvvEmployee.cs",
+              "ToolTip": "D:\\NETCORE\\k23cnt3_PhamVanVu_Net\\PhamVanVu_2310900120\\Models\\PvvEmployee.cs",
+              "RelativeToolTip": "Models\\PvvEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T03:46:06.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PvvEmployeesController.cs",
+              "DocumentMoniker": "D:\\NETCORE\\k23cnt3_PhamVanVu_Net\\PhamVanVu_2310900120\\Controllers\\PvvEmployeesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PvvEmployeesController.cs",
+              "ToolTip": "D:\\NETCORE\\k23cnt3_PhamVanVu_Net\\PhamVanVu_2310900120\\Controllers\\PvvEmployeesController.cs",
+              "RelativeToolTip": "Controllers\\PvvEmployeesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T03:40:35.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\NETCORE\\k23cnt3_PhamVanVu_Net\\PhamVanVu_2310900120\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\NETCORE\\k23cnt3_PhamVanVu_Net\\PhamVanVu_2310900120\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-02T03:37:37.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PhamVanVu2310900120Context.cs",
+              "DocumentMoniker": "D:\\NETCORE\\k23cnt3_PhamVanVu_Net\\PhamVanVu_2310900120\\Models\\PhamVanVu2310900120Context.cs",
+              "RelativeDocumentMoniker": "Models\\PhamVanVu2310900120Context.cs",
+              "ToolTip": "D:\\NETCORE\\k23cnt3_PhamVanVu_Net\\PhamVanVu_2310900120\\Models\\PhamVanVu2310900120Context.cs",
+              "RelativeToolTip": "Models\\PhamVanVu2310900120Context.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T03:37:17.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NETCORE\\k23cnt3_PhamVanVu_Net\\PhamVanVu_2310900120\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\NETCORE\\k23cnt3_PhamVanVu_Net\\PhamVanVu_2310900120\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T02:27:10.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PvvAbout.cshtml",
+              "DocumentMoniker": "D:\\NETCORE\\k23cnt3_PhamVanVu_Net\\PhamVanVu_2310900120\\Views\\PvvHome\\PvvAbout.cshtml",
+              "RelativeDocumentMoniker": "Views\\PvvHome\\PvvAbout.cshtml",
+              "ToolTip": "D:\\NETCORE\\k23cnt3_PhamVanVu_Net\\PhamVanVu_2310900120\\Views\\PvvHome\\PvvAbout.cshtml",
+              "RelativeToolTip": "Views\\PvvHome\\PvvAbout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T02:12:33.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\NETCORE\\k23cnt3_PhamVanVu_Net\\PhamVanVu_2310900120\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\NETCORE\\k23cnt3_PhamVanVu_Net\\PhamVanVu_2310900120\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T01:55:28.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PvvIndex.cshtml",
+              "DocumentMoniker": "D:\\NETCORE\\k23cnt3_PhamVanVu_Net\\PhamVanVu_2310900120\\Views\\PvvHome\\PvvIndex.cshtml",
+              "RelativeDocumentMoniker": "Views\\PvvHome\\PvvIndex.cshtml",
+              "ToolTip": "D:\\NETCORE\\k23cnt3_PhamVanVu_Net\\PhamVanVu_2310900120\\Views\\PvvHome\\PvvIndex.cshtml",
+              "RelativeToolTip": "Views\\PvvHome\\PvvIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T02:14:06.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_PvvLayout.cshtml",
+              "DocumentMoniker": "D:\\NETCORE\\k23cnt3_PhamVanVu_Net\\PhamVanVu_2310900120\\Views\\Shared\\_PvvLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_PvvLayout.cshtml",
+              "ToolTip": "D:\\NETCORE\\k23cnt3_PhamVanVu_Net\\PhamVanVu_2310900120\\Views\\Shared\\_PvvLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_PvvLayout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T01:56:36.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PvvHomeController.cs",
+              "DocumentMoniker": "D:\\NETCORE\\k23cnt3_PhamVanVu_Net\\PhamVanVu_2310900120\\Controllers\\PvvHomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PvvHomeController.cs",
+              "ToolTip": "D:\\NETCORE\\k23cnt3_PhamVanVu_Net\\PhamVanVu_2310900120\\Controllers\\PvvHomeController.cs",
+              "RelativeToolTip": "Controllers\\PvvHomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T02:04:22.721Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
